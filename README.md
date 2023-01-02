@@ -18,8 +18,8 @@ pip3 install -r requirements.txt
 ## How to Use
 Help Menu
 ```
-python3 reverse-ip.py -h
-usage: reverse-ip.py [-h] [-t target.com]
+python3 reverseip.py -h
+usage: reverseip.py [-h] [-t target.com]
 
 options:
   -h, --help            show this help message and exit
@@ -28,7 +28,7 @@ options:
 ```
 Reverse IP
 ```
-python3 reverse-ip.py -t google.com
+python3 reverseip.py -t google.com
 ```
 ## Screenshot
 ![ReverseIP](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM4Z6zSF5yjADs6toEeqYSJs71tGp-8H-E4t0udDQ5qUBqHXOa5fFaUGowEvVSpKw5vSeuBPaGwRrDOsl3TxYB2P9MYC-5gWw9ued2E4iFWybbJz_yiargjToQpYMnalQtiQja7kVOmc1nQfsHLc7xB2wh_BHZ1NWOUABHOYGh0wdCkApkoEl7GvfH0A/s742/reverse-ip.png "ReverseIP")
